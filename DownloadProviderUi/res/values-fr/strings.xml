@@ -54,7 +54,5 @@
     <string name="paused_unknown">Suspendu pour raison inconnue</string>
     <string name="confirm_delete_downloads_message">Désirez-vous supprimer %d élément(s) de la liste des téléchargements！</string>
     <string name="confirm_delete_the_download_item_message">L\'élément sera supprimé de la liste des téléchargements!</string>
-    <string name="confirm_delete_the_running_tab_downloads">Supprimera tous les téléchargements en cours et en attente！</string>
-    <string name="confirm_delete_the_success_tab_downloads">Supprimera la liste de tous les téléchargements effectués！</string>
     <string name="delete_the_downloaded_file">Supprimer les fichiers téléchargés.</string>
 </resources>

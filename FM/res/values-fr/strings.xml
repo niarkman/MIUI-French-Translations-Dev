@@ -60,6 +60,7 @@
     <string name="toast_save_station">La radio %sMHz a été enregistrée</string>
     <string name="fmradio_exit_in_calling">La radio n\'est pas fonctionnelle durant les appels</string>
     <string name="fmradio_no_headset_at_begin">Veuillez connecter les écouteurs avant d\'utiliser la radio</string>
+    <string name="fmradio_no_headset_title">Les écouteurs ne sont pas branchés</string>
     <string name="fmradio_no_headset_in_listen">La radio a été désactivée automatiquement. Veuillez reconnecter les écouteurs.</string>
     <string name="sleep_mode">Mode veille</string>
     <string name="popup_time">%d mins</string>

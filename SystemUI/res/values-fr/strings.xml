@@ -34,4 +34,8 @@
     <string name="dismount_storage">Démonter</string>
     <string name="move_data_to_sdcard_title">Migrer les données vers la carte SD</string>
     <string name="move_data_to_sdcard_message">Les photos, les captures d\'écran, les sons et autres données seront placées de façon permanente sur la carte SD afin d\'assurer la fluidité du système.</string>
+    <string name="user_guide_for_notification">Une nouvelle notification a été reçue. Vous pouvez faire glisser la barrre d\'état vers le bas afin d\'en visualiser le détail.</string>
+    <string name="user_guide_for_toggle">Vous pouvez faire défiler horizontalement la liste des paramètres rapides</string>
+    <string name="user_guide_for_toggle_list">Appuyer ici pour personnaliser la liste des paramètres rapides</string>
+    <string name="user_guide_for_call">Pour aller sur l\'écran principal du téléphone, vous pouvez faire glisser la barre d\'état vers le bas et cliquer sur la notification d\'appel.</string>
 </resources>

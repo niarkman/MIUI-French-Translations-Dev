@@ -269,4 +269,6 @@
     <string name="notification_exchange_calendar_added">Agenda Exchange ajouté</string>
     <string name="gal_searching_fmt">Recherche en cours dans %s…</string>
     <string name="gal_completed_limited_fmt">%1$d premiers résultats de %2$s</string>
+    <string name="move_to_older">Préc.</string>
+    <string name="move_to_newer">Suiv.</string>
 </resources>
