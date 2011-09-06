@@ -509,6 +509,7 @@
     <string name="icc_related_setting_title">Statut des appels entrants et sortants</string>
     <string name="icc_related_setting_summary">Transferts d\'appels, attente, filtrage et autres paramètres liés au réseau</string>
     <string name="incoming_call_guide">Coulissez vers le haut et vous pouvez raccrocher</string>
+    <string name="lable_call_privileged">Appel sortant</string>
     <string name="goPrivate">mode privé</string>
     <string name="selectContact">sélectionner un contact</string>
     <string name="sip_settings">Paramètres d\'appel Internet</string>

@@ -58,10 +58,12 @@
     <string name="toast_edit_station">Enregistrement de la station avec succés</string>
     <string name="toast_edit_save_station_fail">La modification de la station a échouée!</string>
     <string name="toast_save_station">La radio %sMHz a été enregistrée</string>
-    <string name="fmradio_exit_in_calling">La radio n\'est pas fonctionnelle durant les appels</string>
+    <string name="fmradio_in_calling_at_begin">La radio n\'est pas fonctionnelle durant les appels</string>
     <string name="fmradio_no_headset_at_begin">Veuillez connecter les écouteurs avant d\'utiliser la radio</string>
-    <string name="fmradio_no_headset_title">Les écouteurs ne sont pas branchés</string>
+    <string name="fmradio_start_error">Erreur lors de la tentative de démarrage de la radio</string>
     <string name="fmradio_no_headset_in_listen">La radio a été désactivée automatiquement. Veuillez reconnecter les écouteurs.</string>
+    <string name="fmradio_on_airplane_mode_in_listen">La radio a été fermée automatiquement (mode avion)</string>
+    <string name="fmradio_stop_unexpected">La radio a cessé de fonctionner suite à une erreur innatendue</string>
     <string name="sleep_mode">Mode veille</string>
     <string name="popup_time">%d mins</string>
     <string name="select_quit_time">Arrêt automatique (en minutes)</string>

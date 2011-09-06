@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <integer name="config_shortAnimTime">90</integer>
-    <integer name="config_mediumAnimTime">180</integer>
-    <integer name="config_longAnimTime">240</integer>
+    <integer name="config_shortAnimTime">80</integer>
+    <integer name="config_mediumAnimTime">160</integer>
+    <integer name="config_longAnimTime">215</integer>
     <integer name="button_text_shadow_dy">1</integer>
     <integer name="expandlistview_header_shadow_dy">1</integer>
     <integer name="config_radioScanningTimeout">0</integer>

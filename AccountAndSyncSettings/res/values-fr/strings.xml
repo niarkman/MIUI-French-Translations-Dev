@@ -44,6 +44,7 @@
     <string name="sync_item_title">Synchroniser %s</string>
     <string name="cant_sync_dialog_title">Synchronisation manuelle impossible</string>
     <string name="cant_sync_dialog_message">La synchronisation de cet élément est actuellement désactivée. Pour modifier vos préférences, activez temporairement les données en arrière-plan et la synchronisation automatique.</string>
+    <string name="xiaomi_account">小米帐号</string>
     <string name="user_id">Identifiant</string>
     <string name="user_detail">Ma Carte</string>
     <string name="user_nickname">Surnom</string>

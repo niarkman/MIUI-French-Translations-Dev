@@ -484,6 +484,9 @@
     <string name="sd_ejecting_title">Désactivation en cours</string>
     <string name="sd_ejecting_summary">Désactivation en cours</string>
     <string name="apn_settings">APN</string>
+    <string name="apn_auto_switch_setting_title">Commutation auto</string>
+    <string name="apn_auto_switch_setting_summary">Autoriser le système a commuter automatiquement entre APN selon les besoins (expecté pour MMS)</string>
+    <string name="apn_auto_switch_dialog_message">L\'APN préféré est utilisé si la commutation automatique est désactivée. Dans ce cas certaines demandes de données pourraient échouer. Etes-vous sur de vouloir désactiver la communtation automatique ?</string>
     <string name="apn_edit">Modifier le point d\'accès</string>
     <string name="apn_not_set">&lt;Non défini></string>
     <string name="apn_name">Nom</string>
@@ -1372,8 +1375,8 @@
     <string name="cit_charger_current">Charge actuelle：%dmA</string>
     <string name="cit_charger_current_error">Impossible d\'obtenir la valeur de la charge actuelle</string>
     <string name="miui_copyright_title">Copyright</string>
-    <string name="miui_license_title">Licence MIUI</string>
-    <string name="miui_market_license_title">Licence MIUI disque réseau</string>
+    <string name="miui_user_agreement_title">Accord utilisateur</string>
+    <string name="miui_privacy_policy_title">Politique de confidentialité</string>
     <string name="sound_settings">Paramètres sonores</string>
     <string name="silent_mode_title">Mode silencieux</string>
     <string name="silent_mode_summary">Aucun son, sauf pour le multimédia &amp; le réveil</string>
@@ -1422,9 +1425,6 @@
     <string name="mms_vibrate_abbreviation">Messages</string>
     <string name="no_vibrate_item">Pas de vibreur</string>
     <string name="haptic_feedback_level">Intensité des vibrations</string>
-    <string name="dual_microphone_enable_title">Réuduction du bruit</string>
-    <string name="dual_microphone_enable_summary_on">La fonction de double réduction du bruit sur microphone est activée</string>
-    <string name="dual_microphone_enable_summary_off">La fonction de double réduction du bruit sur microphone est désactivée</string>
     <string name="apn_delete_confirm_dialog_title">Supprimer l\'APN</string>
     <string name="apn_delete_confirm_dialog_message">Confirmez-vous la suppression du point d\'accès ?</string>
     <string name="sensor_accelerometer">Accéléromètre</string>

@@ -93,4 +93,5 @@
     <string name="install_whole_rom">Nous vous recommandons de télécharger le pack complet de mise à niveau du système</string>
     <string name="check_update_policy">Vérifier les paramètres</string>
     <string name="check_update_when_wifi_available">Ne vérifier les mises à jour que si une connexion WLAN est établie</string>
+    <string name="install_file_explorer">veuillez installer un explorateur de fichiers</string>
 </resources>
