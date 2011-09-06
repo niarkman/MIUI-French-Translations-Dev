@@ -107,7 +107,7 @@
     <string name="pref_auto_enter_fullscreen">Plein écran intelligent</string>
     <string name="pref_auto_enter_fullscreen_summary">Activer / Désactiver le mode plein écran automatique.</string>
     <string name="pref_text_size_dialogtitle">Taille du texte</string>
-    <string name="pref_about">à propos de Miren Browser</string>
+    <string name="pref_about">A propos de Miren Browser</string>
     <string name="pref_about_detail">Miren Browser</string>
     <string name="pref_about_message2">Copyright ©2011 miren.cn</string>
     <string name="pref_about_message3">Tous droits réservés</string>
