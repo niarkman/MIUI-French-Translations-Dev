@@ -345,7 +345,7 @@
     <string name="importFromXiaomiAccountStep1">Utiliser MiTalk pour sauvegarder vos contacts sur les autres appareils, pas MI-ONE</string>
     <string name="importFromXiaomiAccountStep1Text">1.	Démarrer un téléphone avec les contacts\n\n2.	Installer MiTalk et se connecter.\n	http://www.miliao.com\n\n3.	Se rendre dans les paramètres de MiTalk et choisir ”Back up contacts to Xiaomi account”</string>
     <string name="importFromXiaomiAccountStep1Text2">Note : Se rendre à l\'étape suivante si une sauvegarde existe déjà</string>
-    <string name="noContactHelpTextAccounts">Auto</string>
+    <string name="noContactHelpTextAccounts">Configurer les comptes</string>
      <string name="noContactHelpTextAccountsInfo">Sync contacts Google, Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccount">Restaurer à partir d\'une sauvegarde en ligne</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans un compte Xiaomi et MiTalk</string>

@@ -340,6 +340,7 @@
     <string name="wifi_eap_anonymous">Anonyme</string>
     <string name="wifi_wapi_psk_type">Type de mot de passe</string>
     <string name="wifi_password">Mot de passe</string>
+    <string name="wifi_password_incorrect">Mot de passe incorrect, veuillez réessayer</string>
     <string name="wifi_show_password">Afficher le mot de passe</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
     <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
@@ -1081,9 +1082,13 @@
     <string name="camera_key_action_setting_title">Appui du bouton MI</string>
     <string name="camera_key_action_category_title">Exécute l\'opération dans l\'application caméra</string>
     <string name="camera_key_action_none_title">Ne rien faire</string>
-    <string name="camera_key_action_home_title">Retour à l\'accueil</string>
+    <string name="camera_key_action_shortcut_title">Raccourci</string>
     <string name="camera_key_action_toggle_title">Interrupteur</string>
     <string name="camera_key_action_app_title">Ouvrir l\'application</string>
+    <string name="camera_key_action_shortcut_home">Retour sur le bureau</string>
+    <string name="camera_key_action_shortcut_screenshot">Capture d\écran</string>
+    <string name="camera_key_action_shortcut_search">Rechercher</string>
+    <string name="camera_key_action_shortcut_call">Appeler</string>
     <string name="trackball_wake_title">Réveil par LED</string>
     <string name="device_cpu2_info">dual core</string>
     <string name="install_development_settings_title">Installation et débogage</string>

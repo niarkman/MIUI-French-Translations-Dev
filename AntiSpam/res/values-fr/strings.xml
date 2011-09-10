@@ -64,6 +64,8 @@
     <string name="fw_restore_ms">Restaurer SMS</string>
     <string name="fw_ms">Interception(s) SMS:%s (%d)</string>
     <string name="fw_call">Interception(s) téléphone:%s (%d)</string>
+    <string name="fw_import_blacklist">Ajouter à la blacklist</string>
+    <string name="fw_import_whitelist">Ajouter à la whitelist</string>
     <string name="fw_blacklist_hint">Blacklist par défaut - bloque tous les appels et les SMS. Ajouter les numéros que vous souhaitez bloquer ici.</string>
     <string name="fw_whitelist_hint">Whitelist par défaut. Entrez vos numéros de confiance ici</string>
     <string name="fw_no_effect">Le blocage n\'est pas activé, voulez vous le lancer ?</string>

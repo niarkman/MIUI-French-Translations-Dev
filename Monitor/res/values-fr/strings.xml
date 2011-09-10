@@ -70,4 +70,6 @@
     <string name="no_sms">Journal de message vide.</string>
     <string name="loading_apps_list">Chargement de la liste des programmes, veuillez patienter...</string>
     <string name="loading_apps_list_failed">Le chargement de la liste a échoué!</string>
+    <string name="apply_rules_failed_known">Echec</string>
+    <string name="apply_rules_failed">L\'application des règles de filtrage a échouée, veuillez réessayer à nouveau</string>
 </resources>

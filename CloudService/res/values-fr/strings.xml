@@ -22,6 +22,7 @@
     <string name="service_disabled">Service arrêté</string>
     <string name="service_unavailable">Service non disponible</string>
     <string name="network_error">Erreur de connexion réseau</string>
+    <string name="has_bound">Relancer la liaison</string>
     <string name="unknown">Erreur inconnue</string>
     <string name="by_email">Utiliser E-Mail</string>
     <string name="by_mobile">Utiliser un numéro de mobile</string>
@@ -39,6 +40,8 @@
     <string name="login_account_suggestion2">passport.xiaomi.com</string>
     <string name="user_agreement1">En créant un compte, vous acceptez</string>
     <string name="user_agreement2">\u0020les conditions d\'utilisation du service</string>
+    <string name="user_agreement3">\u0020et\u0020</string>
+    <string name="user_agreement4">la politique de confidentialité.</string>
     <string name="loging_on">Connecté</string>
     <string name="invalid_phone_number">Numéro de téléphone invalide</string>
     <string name="invalid_vercode">Veuillez saisir le code de vérification</string>
@@ -46,4 +49,5 @@
     <string name="forget_password">Mot de passe oublié ?</string>
     <string name="sending_request">Envoi de la requête</string>
     <string name="succeed">Effectué</string>
+    <string name="settings_safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour visualiser cette information maintenant, allez sur %s depuis n\'importe quel ordinateur connecté à Internet.</string>
 </resources>

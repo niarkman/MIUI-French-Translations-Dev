@@ -120,4 +120,6 @@
     <string name="prefDefault_alerts_vibrate_true">toujours</string>
     <string name="prefDefault_alerts_vibrate_false">jamais</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrer</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
 </resources>

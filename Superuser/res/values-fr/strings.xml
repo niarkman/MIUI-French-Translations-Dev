@@ -49,4 +49,9 @@
     <string name="enable_authority_message">La gestion des droits est activée</string>
     <string name="confirm_disable_authority">La désactivation de la gestion des droits empêche la contrôle des logiciels qui pourraient utiliser les applications du téléphone de façon malveillante.\nEtes-vous certain de vouloir désactiver la gestion des droits ?</string>
     <string name="ask_for_root_permission_message">%s demande les autorisations ROOT au système, cette opération peut être dangereuse.\nAutorisez-vous cette opération ?</string>
+    <string name="menu_setting">Paramètres</string>
+    <string name="pref_root_permission_title">Permission ROOT</string>
+    <string name="pref_root_permission_summary">Autoriser les applications à requérir les droits administrateur</string>
+    <string name="ask_for_root_permission_toast">%s demande les droits d\'administration du système. Ceux-ci sont désactivés par défaut afin d\'assurer la sécurité du système. Si vous avez besoin d\'activer cette autorisation, veuillez vous rendre dans les paramètres de Super Utilisateur.</string>
+    <string name="open_root_permission_message">Autoriser cette option permet aux applications de requérir les droits d\'administration.\nNote: Les programmes ayant obtenu ces droits peuvent entraîner l\'instabilité de votre système, voire la perte de de données personnelles, des dommages système et matériel, soyez prudents. Etes-vous sur de vouloir autoriser l\'accès aux droits d\'administration ?</string>
 </resources>

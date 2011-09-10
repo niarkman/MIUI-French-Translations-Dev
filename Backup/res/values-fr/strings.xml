@@ -23,7 +23,8 @@
     <string name="delete_backup">Suppression de la sauvegarde</string>
     <string name="delete_backup_confirm">Confirmez-vous la suppression de la sélection ?</string>
     <string name="delete_backup_process">Suppression de la sélection, veuillez patientez...</string>
-    <string name="delete_failed_backup_process">La suppression a échouée !</string>
+    <string name="backup_error">Sauvegarde endommagée</string>
+    <string name="delete_failed_backup_confirm">La sauvegarde est endommagé, il est impossible de restaurer depuis celle-ci</string>
     <string name="batch_delete_backup_confirm">Confirmez-vous la suppression de la sélection ?</string>
     <string name="start_restore">Restauration</string>
     <string name="backup_file_error">Problème fichiers de sauvegarde, l\'opération n\'est pas valide.</string>
